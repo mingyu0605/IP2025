@@ -17,6 +17,11 @@ https://www.youtube.com/watch?v=7k-LO_xAtfQ
 Homework3
 <img src="./homework3.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
 
+Homework4 
+
+https://youtu.be/watch?v=diehyYVimhs
+
+[![Video](https://img.youtube.com/vi/diehyYVimhs/maxresdefault.jpg)](https://www.youtube.com/watch?v=diehyYVimhs)
 Homework5
 
 https://youtu.be/watch?v=anajFWYDJT4
